@@ -1,0 +1,19 @@
+{
+    "nul": "zero",
+    "unit": [
+        ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine"],
+        ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine"]
+    ],
+    "units": [
+        ["/100 US dollars" ,"/100 US dollars" ,"/100 US dollars", 1],
+        ["", "", "", 0],
+        ["thousand", "thousand", "thousand", 1],
+        ["million" , "million" , "million" , 0],
+        ["billion" , "billion" , "billion" , 0]
+    ],
+    "htseparator": " and ",
+    "tseparator": "-",
+    "ten": ["ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"],
+    "tens": ["twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"],
+    "hundred": ["one hundred", "two hundred", "three hundred", "four hundred", "five hundred", "six hundred", "seven hundred", "eight hundred", "nine hundred"]
+}
