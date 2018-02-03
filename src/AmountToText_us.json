@@ -5,13 +5,14 @@
         ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine"]
     ],
     "units": [
-        ["/100 US dollars" ,"/100 US dollars" ,"/100 US dollars", 1],
+        ["/100 USD" ,"/100 USD" ,"/100 USD", 1],
         ["", "", "", 0],
         ["thousand", "thousand", "thousand", 1],
         ["million" , "million" , "million" , 0],
         ["billion" , "billion" , "billion" , 0]
     ],
     "htseparator": " and ",
+    "dcseparator": " and ",
     "tseparator": "-",
     "ten": ["ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"],
     "tens": ["twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"],
